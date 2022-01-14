@@ -1,0 +1,18 @@
+{
+	"wpp_demo_plugin_name": "Demo Plugin",
+	"wpp_demo_plugin_slug": "demo-menu",
+	"wpp_demo_plugin_author": "example.com",
+	"wpp_demo_plugin_author_profile": "example.com",
+	"wpp_demo_plugin_version": "2.1.9",
+	"wpp_demo_plugin_download_url": "https://wppmayankdev.wpengine.com/wp-content/plugins/demo-plugin-new-version/demo-plugin.zip",
+	"wpp_demo_plugin_last_updated": "2021-11-01 07:00:00",
+	"wpp_demo_plugin_sections": {
+		"wpp_demo_plugin_description": "This plugin is used for plugin self updating capabilities.",
+		"wpp_demo_plugin_installation": "Click the Insatall Update Now Button.",
+		"wpp_demo_plugin_changelog": "<h4>2.1.9 –  31 Dec 2021</h4><ul><li>Enhancements.</li><li>Initital Release.</li></ul>"
+	},
+	"wpp_demo_plugin_img": {
+		"wpp_demo_plugin_low": "http://wppmayankdev.wpengine.com/wp-content/uploads/2021/11/hero-video_1-scaled-1.jpeg",
+		"wpp_demo_plugin_high": ""
+	}
+}
